@@ -3,6 +3,16 @@ import json
 import logging
 
 
+from pathlib import Path
+from os import remove
+
+my_file = Path("Logs_Items.log")
+
+if my_file.exists():
+    remove(my_file)
+
+
+
 items = 'https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326&attributes=results'
 categories = 'https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326&category='
 
@@ -35,6 +45,9 @@ def get_categories_api(id_categories):
 
 
 def organize_data(Items):
+
+
+
 
     for item in range(len(Items['results'])):
         organized_items.append(
