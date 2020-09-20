@@ -1,0 +1,50 @@
+INFO:root:{'id_item_1': 'MLA863267784', 'title_del_item': 'Monitor Dell P2018h Led 19.5  Negro 110v/220v', 'categoria_id': 'MLA14407', 'name_categoria': 'Monitores'}
+INFO:root:{'id_item_2': 'MLA870594510', 'title_del_item': 'Access Point, Router Linksys Max-stream Ea7300 Negro 100v/240v 1 Unidad', 'categoria_id': 'MLA430901', 'name_categoria': 'Routers'}
+INFO:root:{'id_item_3': 'MLA740540307', 'title_del_item': 'Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos', 'categoria_id': 'MLA1649', 'name_categoria': 'PC'}
+INFO:root:{'id_item_4': 'MLA677347584', 'title_del_item': 'Notebook Dell Inspiron I3 8gb 1tb 14 Win 10 Teclado Con Ñ Garantia De Tienda Oficial - Factura A Y B Ram', 'categoria_id': 'MLA1652', 'name_categoria': 'Notebooks'}
+INFO:root:{'id_item_5': 'MLA663219401', 'title_del_item': 'Notebook Dell I5 8gb Ssd 256gb 13,3 Win10', 'categoria_id': 'MLA1652', 'name_categoria': 'Notebooks'}
+INFO:root:{'id_item_6': 'MLA702423108', 'title_del_item': 'Pc De Escritorio Dell I5 8gb Hd 1tb Win10 Pro Vostro Ram Para Uso Hogar Y Empresa - Garantia Oficial', 'categoria_id': 'MLA1649', 'name_categoria': 'PC'}
+INFO:root:{'id_item_7': 'MLA863064747', 'title_del_item': 'Router Linksys Wifi Ea7300 Mimo Smart Router Ac1750', 'categoria_id': 'MLA430901', 'name_categoria': 'Routers'}
+INFO:root:{'id_item_8': 'MLA812493388', 'title_del_item': 'Notebook Dell Vostro I5 14 8g 256ssd Win10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B', 'categoria_id': 'MLA1652', 'name_categoria': 'Notebooks'}
+INFO:root:{'id_item_9': 'MLA863062042', 'title_del_item': 'Router Smart Linksys Wifi Wrt1900acs Dualcore Dualband', 'categoria_id': 'MLA430901', 'name_categoria': 'Routers'}
+INFO:root:{'id_item_10': 'MLA838441150', 'title_del_item': 'Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia', 'categoria_id': 'MLA1649', 'name_categoria': 'PC'}
+INFO:root:{'id_item_11': 'MLA614270244', 'title_del_item': 'Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_12': 'MLA625205834', 'title_del_item': 'Ups Apc 800va 6 T Estabilizador Y Protector De Tension Gtia Oficial 2 Años Bx800 Para Tv, Play, Equipos De Audio', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_13': 'MLA609550688', 'title_del_item': 'Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_14': 'MLA872001640', 'title_del_item': 'Pc Vostro Dell I5 8gb Hd 1tb Win10p + Monitor Cuotas', 'categoria_id': 'MLA1649', 'name_categoria': 'PC'}
+INFO:root:{'id_item_15': 'MLA619999038', 'title_del_item': 'Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_16': 'MLA609116302', 'title_del_item': 'Ups Apc 1500va Con Ahorro De Energa Estabilizador Y Protector De Tension Gtia Oficial Ideal Para Uso Gamer', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_17': 'MLA812781294', 'title_del_item': 'Notebook Dell Vostro I5 16gb 256ssd 14hd Win10 Profesional', 'categoria_id': 'MLA1652', 'name_categoria': 'Notebooks'}
+INFO:root:{'id_item_18': 'MLA814217735', 'title_del_item': 'Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130', 'categoria_id': 'MLA1649', 'name_categoria': 'PC'}
+INFO:root:{'id_item_19': 'MLA846968526', 'title_del_item': 'Ups Apc Bv1000 Estabilza Y Protege Tensión Entrega Inmediata', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_20': 'MLA864665962', 'title_del_item': 'Escaner Iris Desk Pro 5 Ideal Libros Documentos Usb', 'categoria_id': 'MLA72721', 'name_categoria': 'Scanners'}
+INFO:root:{'id_item_21': 'MLA654228009', 'title_del_item': 'Pc Dell Optiplex Intel I5 4gb 1tb Windows 10 Pro Oferta', 'categoria_id': 'MLA1649', 'name_categoria': 'PC'}
+INFO:root:{'id_item_22': 'MLA723629779', 'title_del_item': 'Notebook Dell Vostro I5 14 8g 256ssd Win10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B', 'categoria_id': 'MLA1652', 'name_categoria': 'Notebooks'}
+INFO:root:{'id_item_23': 'MLA609115444', 'title_del_item': 'Ups Apc De Alto Rendimiento 1200va Estabilizador Y Protector De Tension Garantía Oficial De 2 Años Ups', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_24': 'MLA846185645', 'title_del_item': 'Iris Pen Air 7 Lapiz Escaner Portátil Usb Ocr Traductor', 'categoria_id': 'MLA72721', 'name_categoria': 'Scanners'}
+INFO:root:{'id_item_25': 'MLA800415301', 'title_del_item': 'Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130', 'categoria_id': 'MLA1649', 'name_categoria': 'PC'}
+INFO:root:{'id_item_26': 'MLA837789459', 'title_del_item': 'Notebook Laptot Dell I3 16gb 1tb Win10 Oferta ', 'categoria_id': 'MLA1652', 'name_categoria': 'Notebooks'}
+INFO:root:{'id_item_27': 'MLA609714710', 'title_del_item': 'Ups Apc 900va Back-ups 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial 2años Br900 Para Tv, Play, Pc', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_28': 'MLA839633052', 'title_del_item': 'Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_29': 'MLA665986505', 'title_del_item': 'Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130', 'categoria_id': 'MLA1649', 'name_categoria': 'PC'}
+INFO:root:{'id_item_30': 'MLA664647170', 'title_del_item': 'Notebook Dell Latitude I5 8gb 1tb Win 10 Pro', 'categoria_id': 'MLA1652', 'name_categoria': 'Notebooks'}
+INFO:root:{'id_item_31': 'MLA862050665', 'title_del_item': 'Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas', 'categoria_id': 'MLA1649', 'name_categoria': 'PC'}
+INFO:root:{'id_item_32': 'MLA673321805', 'title_del_item': 'Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_33': 'MLA659248541', 'title_del_item': 'Monitor Gamer Hd Dell Led Profesional 20 Dp Vertical', 'categoria_id': 'MLA14407', 'name_categoria': 'Monitores'}
+INFO:root:{'id_item_34': 'MLA846965428', 'title_del_item': 'Ups Apc Bv500 Estabilizador Protector Tension Entreg Inmedit', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_35': 'MLA678685394', 'title_del_item': 'Notebook Dell I3 8gb 1tb + 240ssd 14 Win10 Ram Oferta', 'categoria_id': 'MLA1652', 'name_categoria': 'Notebooks'}
+INFO:root:{'id_item_36': 'MLA604317175', 'title_del_item': 'Ups Apc 800va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial De 2 Años Para Gamer Bx800 Para Tv, Play', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_37': 'MLA763012088', 'title_del_item': 'Monitor Dell 24 Profesional P2419h 1080 60hz Vertical', 'categoria_id': 'MLA14407', 'name_categoria': 'Monitores'}
+INFO:root:{'id_item_38': 'MLA678026676', 'title_del_item': 'Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B', 'categoria_id': 'MLA1708', 'name_categoria': 'Switches'}
+INFO:root:{'id_item_39': 'MLA609714711', 'title_del_item': 'Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_40': 'MLA830190937', 'title_del_item': 'Notebook Lapto Dell I3 16gb 1tb + Ssd 480gb Win10 Oferta', 'categoria_id': 'MLA1652', 'name_categoria': 'Notebooks'}
+INFO:root:{'id_item_41': 'MLA640303035', 'title_del_item': 'Ups Apc Br1500g 1500va Estabilizador  Gtia 2 Años Br1500g-ar', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_42': 'MLA604049998', 'title_del_item': 'Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_43': 'MLA609113448', 'title_del_item': 'Ups Apc 650va Back 3 Tomas Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial Bx650', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_44': 'MLA873893259', 'title_del_item': 'Toner Lexmark Mx 317/417/517 Ms 2500 P 51b4000', 'categoria_id': 'MLA3560', 'name_categoria': 'Tóners'}
+INFO:root:{'id_item_45': 'MLA876230761', 'title_del_item': 'Notebook Dell Vostro I5 14 16g 256ssd Win10 Pro Teclado Ñ', 'categoria_id': 'MLA1652', 'name_categoria': 'Notebooks'}
+INFO:root:{'id_item_46': 'MLA839086917', 'title_del_item': 'Router Linksys Ea8300 Tri Band Wifi Ac2200 Mu-mino Oferta', 'categoria_id': 'MLA430901', 'name_categoria': 'Routers'}
+INFO:root:{'id_item_47': 'MLA878634067', 'title_del_item': 'Ups Apc Bv800i - Ahora En Cuotas Sin Interes', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_48': 'MLA723753317', 'title_del_item': 'Ups Apc Br900g-ar 900va 6 Tomas Estabilizador Gtia 2 Años', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
+INFO:root:{'id_item_49': 'MLA750118968', 'title_del_item': 'Notebook I7 Dell Latitude 16gb 256ssd Win10 Pro Oferta Ram', 'categoria_id': 'MLA1652', 'name_categoria': 'Notebooks'}
+INFO:root:{'id_item_50': 'MLA614716924', 'title_del_item': 'Ups Apc Br550g-ar Back-ups Pro 550va 230 Estabilizador Br550', 'categoria_id': 'MLA1720', 'name_categoria': 'UPS'}
