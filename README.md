@@ -1,5 +1,5 @@
 # Api Consumption Mercado Libre
-![alt text](https://github.com/[AnthonySanoja23]/[Prueba_Mercado_Libre]/[master]/descarga.png?raw=true)
+![alt text](https://github.com/AnthonySanoja23/Prueba_Mercado_Libre/blob/master/descarga.png?raw=true)
 
 
 ## Starting 🚀
